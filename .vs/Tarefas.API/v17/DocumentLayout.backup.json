@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FIC\\Documents\\fic-csharp\\Tarefas.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB9A863-71D2-42B1-B2BB-458033BFB81C}|Tarefas.API.csproj|c:\\users\\fic\\documents\\fic-csharp\\tarefas.api\\endpoints\\tarefasendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB9A863-71D2-42B1-B2BB-458033BFB81C}|Tarefas.API.csproj|solutionrelative:endpoints\\tarefasendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB9A863-71D2-42B1-B2BB-458033BFB81C}|Tarefas.API.csproj|c:\\users\\fic\\documents\\fic-csharp\\tarefas.api\\endpoints\\categoriasendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB9A863-71D2-42B1-B2BB-458033BFB81C}|Tarefas.API.csproj|solutionrelative:endpoints\\categoriasendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB9A863-71D2-42B1-B2BB-458033BFB81C}|Tarefas.API.csproj|c:\\users\\fic\\documents\\fic-csharp\\tarefas.api\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB9A863-71D2-42B1-B2BB-458033BFB81C}|Tarefas.API.csproj|solutionrelative:models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB9A863-71D2-42B1-B2BB-458033BFB81C}|Tarefas.API.csproj|c:\\users\\fic\\documents\\fic-csharp\\tarefas.api\\context\\tarefasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB9A863-71D2-42B1-B2BB-458033BFB81C}|Tarefas.API.csproj|solutionrelative:context\\tarefasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB9A863-71D2-42B1-B2BB-458033BFB81C}|Tarefas.API.csproj|c:\\users\\fic\\documents\\fic-csharp\\tarefas.api\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB9A863-71D2-42B1-B2BB-458033BFB81C}|Tarefas.API.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB9A863-71D2-42B1-B2BB-458033BFB81C}|Tarefas.API.csproj|c:\\users\\fic\\documents\\fic-csharp\\tarefas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB9A863-71D2-42B1-B2BB-458033BFB81C}|Tarefas.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\fic-csharp\\Tarefas.API\\Models\\Tarefa.cs",
+              "RelativeDocumentMoniker": "Models\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\fic-csharp\\Tarefas.API\\Models\\Tarefa.cs",
+              "RelativeToolTip": "Models\\Tarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:43:16.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TarefasEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\fic-csharp\\Tarefas.API\\Endpoints\\TarefasEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\TarefasEndpoints.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\fic-csharp\\Tarefas.API\\Endpoints\\TarefasEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\TarefasEndpoints.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwC4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:53:27.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriasEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\fic-csharp\\Tarefas.API\\Endpoints\\CategoriasEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\CategoriasEndpoints.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\fic-csharp\\Tarefas.API\\Endpoints\\CategoriasEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\CategoriasEndpoints.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:38:52.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TarefasDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\fic-csharp\\Tarefas.API\\Context\\TarefasDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\TarefasDbContext.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\fic-csharp\\Tarefas.API\\Context\\TarefasDbContext.cs",
+              "RelativeToolTip": "Context\\TarefasDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:45:11.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\fic-csharp\\Tarefas.API\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\fic-csharp\\Tarefas.API\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:32:41.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\fic-csharp\\Tarefas.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\fic-csharp\\Tarefas.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:24:33.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
