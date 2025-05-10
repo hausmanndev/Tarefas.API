@@ -16,5 +16,11 @@
         public DateTime? DataConclusao { get; private set; } = null;
         public int CategoriaId { get; set; }
         public Categoria Categoria { get; private set; }
+
+        public void ConcluirTarefa()
+        {
+            Concluida = true;
+            DataConclusao = DateTime.Now;
+        }
     }
 }
